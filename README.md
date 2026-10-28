@@ -17,3 +17,8 @@ Set Settings → Pages → Source to **GitHub Actions**. A workflow deploys main
 - Guided chat is not generative AI, an attorney, or legal advice.
 - Meta robots=noindex keeps this unapproved preview out of search indices.
 - Replace placeholders and review lawyer advertising, accessibility, privacy, and image licensing before official launch.
+
+
+## Expanded pages (October 2026)
+
+Added 11 standalone responsive pages covering firm, attorney, practice areas, motor vehicle accidents, no-fault/PIP, medical malpractice, civil rights, FAQs, insights, contact, and privacy. Home navigation links to the expanded pages. All content remains a separate design preview with no client intake backend. Attorney profile details, jurisdiction and descriptions require firm approval before production release. The site deliberately uses `noindex,nofollow` while it is a third-party preview.
